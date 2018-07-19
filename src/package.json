@@ -1,0 +1,15 @@
+{
+  "name": "3q1z08wmx1",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "create-react-native-app": "1.0.0",
+    "react": "16.0.0",
+    "react-art": "16.4.1",
+    "react-dom": "16.2.0",
+    "react-native": "0.50.4",
+    "react-native-web": "0.8.8"
+  }
+}
